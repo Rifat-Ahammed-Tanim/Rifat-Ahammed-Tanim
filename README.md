@@ -1,4 +1,4 @@
-<img src="https://github.com/Rifat-Ahammed-Tanim/Rifat-Ahammed-Tanim/blob/main/Tanim.png" alt="tanim">
+
 <h1 align="center">Hi 👋, I'm Rifat Ahammed Tanim</h1>
 <h3 align="center">Software Engineer</h3>
 
