@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-ahammed-tanim&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-ahammed-tanim" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working with **Python**
 
 - 👨‍💻 All of my projects are available at [http://tanim.intels.co/](http://tanim.intels.co/)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Django**
 
 - 📫 How to reach me **tanimofficial18@gmail.com**
 
