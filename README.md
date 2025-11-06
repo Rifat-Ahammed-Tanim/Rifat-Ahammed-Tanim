@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rifat Ahammed Tanim</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left">  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-ahammed-tanim&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-ahammed-tanim" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
